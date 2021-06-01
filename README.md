@@ -1,4 +1,4 @@
-# CLIMP-Command-Line-Music-Player-CPP-Windows
+# CLIMP
 CLIMP - Command Line Music Player made exclusively in C++ for windows. It can play, pause and replay music files
 #### Description :
 This project can be used to play, pause and replay mp3 files of constant bitrate from terminal.
